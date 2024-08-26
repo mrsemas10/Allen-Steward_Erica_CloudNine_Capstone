@@ -7,9 +7,9 @@
 # Introduction
 ## I love to travel so I wanted to have a place where I could save all my favorite destinations and also know what the weather is during a certain time of year. 
 
-##Process
+## Process
 
-##Build
+## Build
 <ol>API</ol>
 <ol>User Authentication</ol>
 <ol>Frontend</ol>
