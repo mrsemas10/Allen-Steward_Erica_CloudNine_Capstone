@@ -10,27 +10,29 @@
 ## Process
 
 ## Build
-1. API
-I used a weather API from RapidAPI.com
+### 1. API
+<li>I used a weather API from RapidAPI.com</li>
 
-2. User Authentication
-There are 2 routes: Login and Register
+### 2. User Authentication
+<li>There are 2 routes: Login and Register</li>
 
-3. Frontend
-<ol>Entry point for front end: src/App.jsx</ol>
-<ol>Components</ol>
-<li>Navigation.jsx: for the nav bar</li>
-<li>SearchResult.jsx: includes city and weather details</li>
-<li>WeatherDetailCards.jsx: includes information about the weather</li>
+### 3. Frontend
+* Entry point for frontend: src/App.jsx
 
-<ol>Pages</ol>
-<li>FavoritePage.jsx: for accessing and manipulating the favorites </li>
-<li>HomePage.jsx: links to login, register and instruction on how to use the page</li>
-<li>LoginPage.jsx: enter email and password for use of the site</li>
-<li>RegisterPage.jsx: enter email and password and confirm password to be able to login</li>
-<li>SearchPage.jsx: search cities to add to the favorite list</li>
+* Components
+  * Navigation.jsx: for the nav bar
+  * SearchResult.jsx: includes city and weather details
+  * WeatherDetailCards.jsx: includes information about the weather
 
-4. Backend
+* Pages
+    * FavoritePage.jsx: for accessing and manipulating the favorites
+    * HomePage.jsx: links to login, register and instruction on how to use the page
+    * LoginPage.jsx: enter email and password for use of the site
+    * RegisterPage.jsx: enter email and password and confirm password to be able to login
+    * SearchPage.jsx: search cities to add to the favorite list
+
+
+### 4. Backend
 <ol>Entry point for backend: index.js</ol>
 <ol>Server set up with MongoDB</ol>
 
