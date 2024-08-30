@@ -1,13 +1,13 @@
 # CloudNine
 
+## Introduction
+#### I love to travel so I wanted to have a place where I could save all my favorite destinations and also know what the current weather is for the location. 
 
-[Live Site]([https://elegant-meerkat-3b62bf.netlify.app](https://cloudnineweather.netlify.app/)) <br/>
+
+[Live Site](https://cloudnineweather.netlify.app/) <br/>
 [Frontend Repo](https://github.com/mrsemas10/capstone325-frontend.git) <br/>
 [Backend Repo](https://github.com/mrsemas10/capstone325-backend.git)
 
-
-## Introduction
-#### I love to travel so I wanted to have a place where I could save all my favorite destinations and also know what the current weather is for the location. 
 
 ## Process
 
