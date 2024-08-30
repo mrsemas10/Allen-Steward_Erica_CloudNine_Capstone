@@ -1,23 +1,24 @@
-# Allen-Steward_Erica_Vacation_Capstone
+# CloudNine
+
 
 [Live Site](https://elegant-meerkat-3b62bf.netlify.app) <br/>
 [Frontend Repo](https://github.com/mrsemas10/capstone325-frontend.git) <br/>
 [Backend Repo](https://github.com/mrsemas10/capstone325-backend.git)
 
 
-# Introduction
-## I love to travel so I wanted to have a place where I could save all my favorite destinations and also know what the weather is during a certain time of year. 
+## Introduction
+### I love to travel so I wanted to have a place where I could save all my favorite destinations and also know what the weather is during a certain time of year. 
 
 ## Process
 
-## Build
-### 1. API
+### Build
+#### 1. API
 I used a weather API from RapidAPI.com
 
-### 2. User Authentication
+#### 2. User Authentication
 There are 2 routes: Login and Register
 
-### 3. Frontend
+#### 3. Frontend
 * Entry point for frontend: src/App.jsx
 
 * Components
@@ -33,7 +34,7 @@ There are 2 routes: Login and Register
     * SearchPage.jsx: search cities to add to the favorite list
 
 
-### 4. Backend
+#### 4. Backend
 <ol>Entry point for backend: index.js</ol>
 <ol>Server set up with MongoDB</ol>
 
@@ -57,6 +58,8 @@ There are 2 routes: Login and Register
 <li>NodeJs</li>
 <li>JavaScript</li>
 <li>Axios</li>
+<li>RapidAPI</li>
+<li>Google Fonts</li>
 <li>RapidAPI</li>
 <li>VS code</li>
 <li>Netlify</li>
