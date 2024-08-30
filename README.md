@@ -1,5 +1,6 @@
 # Allen-Steward_Erica_Vacation_Capstone
 
+[Live Site](https://elegant-meerkat-3b62bf.netlify.app) <br/>
 [Frontend Repo](https://github.com/mrsemas10/capstone325-frontend.git) <br/>
 [Backend Repo](https://github.com/mrsemas10/capstone325-backend.git)
 
@@ -11,10 +12,10 @@
 
 ## Build
 ### 1. API
-<li>I used a weather API from RapidAPI.com</li>
+I used a weather API from RapidAPI.com
 
 ### 2. User Authentication
-<li>There are 2 routes: Login and Register</li>
+There are 2 routes: Login and Register
 
 ### 3. Frontend
 * Entry point for frontend: src/App.jsx
@@ -36,18 +37,18 @@
 <ol>Entry point for backend: index.js</ol>
 <ol>Server set up with MongoDB</ol>
 
-<ol>Controllers</ol>
-<li>auth.controllers.js: for login and register</li>
-<li>favorite.controllers.js: add, view, delete favorites</li>
+* Controllers
+  * auth.controllers.js: for login and register
+  * favorite.controllers.js: add, view, delete favorites
 
-<ol>Models</ol>
-<li>favorite.model.js: favorite schema </li>
-<li>user.mode.js: user schema</li>
+* Models
+  * favorite.model.js: favorite schema
+  * user.mode.js: user schema
 
-<ol>Routers</ol>
-<li>auth.routers: for login and register</li>
-<li>favorite.routers: for favorites</li>
-
+* Routers
+  * auth.routers: for login and registe
+  * favorite.routers: for favorites
+  * 
 
 ## Technology Used
 <li>MongoDB</li>
