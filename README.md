@@ -62,5 +62,6 @@ There are 2 routes: Login and Register
 <li>Google Fonts</li>
 <li>RapidAPI</li>
 <li>VS code</li>
-<li>Netlify</li>
+<li>Netlify(for frontend)</li>
+<li>Render(for backend)</li>
 
