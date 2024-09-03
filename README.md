@@ -60,7 +60,6 @@ There are 2 routes: Login and Register
 <li>Axios</li>
 <li>RapidAPI</li>
 <li>Google Fonts</li>
-<li>RapidAPI</li>
 <li>VS code</li>
 <li>Netlify(for frontend)</li>
 <li>Render(for backend)</li>
