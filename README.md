@@ -47,9 +47,23 @@ There are 2 routes: Login and Register
   * user.mode.js: user schema
 
 * Routers
-  * auth.routers: for login and registe
+  * auth.routers: for login and register
   * favorite.routers: for favorites
-  * 
+
+ #### 5. Other
+ 
+ * Issues
+  * struggle to get backend to merge with frontend (fixed)
+  * the delete feature removing the item (not fixed)
+    
+ * Future Enhancements 
+  * be able to see weather in the future (3, 7 10 days)
+  * maybe be able to book vacations or link to travel sites
+
+ * What I have learned
+  * I DO NOT like backend lol
+  * I do not think I would enjoy a full time coding career
+    
 
 ## Technology Used
 <li>MongoDB</li>
